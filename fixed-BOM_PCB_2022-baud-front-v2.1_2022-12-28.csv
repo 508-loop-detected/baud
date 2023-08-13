@@ -1,0 +1,20 @@
+ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Supplier Part,Price,Pins,3DModel,Contributor,link
+1,4.7uF BP,"C15, C22",CAP-D5.0XF2.0,2,EGH1HM100D11OTGS0,AISHI,LCSC,C160671,0.004,2,,Guest,
+2,THONKICONNNEW,"CLOSED, CV-IN, OPEN, OUT",THONKICONN-TIGHT,4,,,,,,3,,rossgrady,
+3,B100K,"CV, NOISE-MIX, VCO-MIX, DECAY1",9MM_SNAP-IN_POT_3,4,,,,,,5,,rossgrady,
+4,B1M,"FREQ1, FREQ2",9MM_SNAP-IN_POT_3,2,,,,,,5,,rossgrady,
+5,10K,VR3,PV36W-MULTITURN-TRIMMER,1,PV36W102C01B00,Bourns,Mouser,81-PV36W102C01B00,,3,,Sikander,
+6,1k,"R1, R13",R0805,2,,,,,,2,R0805_L2.0-W1.3-H0.6,LCEDA_Lib,https://item.szlcsc.com/142685.html
+7,0.1uF,"C2, C3, C13, C26",C0805,4,,,,,,2,C0805_L2.0-W1.3-H1.3,LCEDA_Lib,https://item.szlcsc.com/373011.html
+8,BZT52C3V6-TP,D5,SOD-123_L2.8-W1.8-LS3.7-RD,1,BZT52C3V6-TP,,LCSC,,,2,SOD-123_L2.8-W1.8-LS3.7-RD,LCSC,https://item.szlcsc.com/301422.html
+9,X4611WV-04I-C28D40,"H1, H2",HDR-TH_4P-P2.00-V-M,2,X4611WV-04I-C28D40,XKB Connectivity,LCSC,C706995,0.009,4,HDR-TH_4P-P2.00-M-LI-1X4P,LCSC,https://item.szlcsc.com/562479.html
+10,X4611WV-05I-C28D40,H3,HDR-TH_5P-P2.00-V-M,1,X4611WV-05I-C28D40,XKB Connectivity,LCSC,C706994,0.012,5,HDR-TH_5P-P2.00-M-LI-1X5P,LCSC,https://atta.szlcsc.com/upload/public/pdf/source/20200518/C541858_7610F54454E936EFCDE06B655DF7C837.pdf
+11,2.2uF,"C1, C25",C0805,2,,,,,,2,C0805_L2.0-W1.3-H1.3,LCEDA_Lib,https://item.szlcsc.com/373011.html
+12,1N4148,"D1, D2, D3, D4",SOD-80C,4,1N4148,SEMTECH,LCSC,C14516,0.001,2,,LCEDA_Lib,
+13,5.1k,R6,R0805,1,,,,,,2,R0805_L2.0-W1.3-H0.6,LCEDA_Lib,https://item.szlcsc.com/142685.html
+14,68k,R7,R0805,1,,,,,,2,R0805_L2.0-W1.3-H0.6,LCEDA_Lib,https://item.szlcsc.com/142685.html
+15,12k,"R9, R39, R40, R53",R0805,4,,,,,,2,R0805_L2.0-W1.3-H0.6,LCEDA_Lib,https://item.szlcsc.com/142685.html
+16,150k,R32,R0805,1,,,,,,2,R0805_L2.0-W1.3-H0.6,LCEDA_Lib,https://item.szlcsc.com/142685.html
+17,10k,"R41, R54",R0805,2,,,,,,2,R0805_L2.0-W1.3-H0.6,LCEDA_Lib,https://item.szlcsc.com/142685.html
+18,220k,R42,R0805,1,,,,,,2,R0805_L2.0-W1.3-H0.6,LCEDA_Lib,https://item.szlcsc.com/142685.html
+19,AP331AWG-7,"U9, U10",SOT-25-5_L3.0-W1.8-P0.95-LS3.0-BR,2,AP331AWG-7,DIODES,LCSC,C151034,0.02,5,SOT-25-5_L3.0-W1.6-H1.3-LS2.8-P0.95,LCSC,https://item.szlcsc.com/70677.html
